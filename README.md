@@ -1,5 +1,5 @@
 ## Music Recommendation ETL Pipeline
-### How It Works
+### How it works
 
 1. **Extraction:** JSON data containing user preferences is extracted and loaded into the pipeline.
 
