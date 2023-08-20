@@ -1,7 +1,4 @@
 # Music Recommendation ETL Pipeline
-
-Theipeline that generates music recommendations based on user preferences using the OpenAI GPT-3 API.
-
 ## How It Works
 
 1. **Extraction:** JSON data containing user preferences is extracted and loaded into the pipeline.
